@@ -107,8 +107,3 @@ Pull requests, issues, and ideas are welcome!
 Feel free to [open an issue](https://github.com/glorythe21st-web/drug-dosage-calculator-by-glory/issues) or fork the repo to improve the project.
 
 ```
-
----
-
-Would you like help turning this into a live **web app** next? Or should we add **unit tests** first?
-```
